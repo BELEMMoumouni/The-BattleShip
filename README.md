@@ -1,7 +1,7 @@
 # The-BattleShip
 
 ## How to run ?
-A user manual is in /data :
+A user manual is in /data :https://github.com/BELEMMoumouni/The-BattleShip/blob/main/data/User%20manual%20battleship.pdf translated from french into english with DEEPL
 
 ## Subject
 
