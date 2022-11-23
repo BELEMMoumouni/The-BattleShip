@@ -1,5 +1,8 @@
 # The-BattleShip
 
+## How to run ?
+A user manual is in /data :
+
 ## Subject
 
 
